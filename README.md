@@ -9,3 +9,6 @@ To do:
       4.1 počet hosp v nemocnicích v závyslosti na čase -David 
       4.2 počet nemocných v závyslosti na čase -Jaroslav
       4.3 mapa rozdělená do okresů. Možnost překlikávat mezi mapami. pod mapou slider s časem. - Štěpánka
+      
+      #  Dokumentace
+      Dokumentaci tvoříme v Overleaf na následujícím odkaze: https://www.overleaf.com/project/6422ed55472b3f39906964a0
