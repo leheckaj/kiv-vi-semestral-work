@@ -1,4 +1,24 @@
 Nahrání dat do powerBI 
 Propojení dat z číselníku krajů k datům hospitalizovaní-analýza. Propojíme na základě kraj_bydlistě
 UPV = umělá plicní ventilace
-Smazat: Kraj-první nemocnice, datum_prvního příznaku, datum_odběru,stav_dleKHS(většinou prázdné), posledni zaznam,stav_posledni_zaznam,tezky_stav,tezky_stav_pocatek,tezky_stav_posledni,jip_pocatek,jip,dni_jip,kyslik,dni_kyslik,upv,dni_upv,ecmo,ecmo_pocatek_ecmo_dni,ecmo_posledni,umrti
+Smazat: Kraj-první nemocnice - redundantní,
+datum_prvního příznaku - redundantní,
+datum_odběru - redundantní,
+stav_dleKHS - prázdné,
+posledni zaznam- redundantní,
+stav_posledni_zaznam - redundantní,
+tezky_stav- redundantní,
+tezky_stav_pocatek - redundantní,
+tezky_stav_posledni - redundantní,
+jip_pocatek - redundantní,
+jip - redundantní,
+dni_jip - redundantní,
+kyslik - redundantní,
+dni_kyslik - redundantní,
+upv - redundantní,
+dni_upv - redundantní,
+ecmo - prázdné,
+ecmo_pocatek - prázdné,
+ecmo_dni - prázdné,
+ecmo_posledni - prázdné,
+umrti - redundantní
